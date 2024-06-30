@@ -169,8 +169,26 @@ python app.py
 ```
 
 ###  Screenshots
-
-
+1. Sign Up
+![image](https://github.com/ParamBhaskar/BTP_Management_System/assets/108367037/d38c117a-14df-4f66-8ab9-c33900e2761e)
+2. Login
+![image](https://github.com/ParamBhaskar/BTP_Management_System/assets/108367037/ccfa3d9f-1c20-48c4-949b-8c7bc446b80c)
+3. Forgot password
+![image](https://github.com/ParamBhaskar/BTP_Management_System/assets/108367037/45dad357-94b4-425d-8f06-4b9a65b54bd8)
+4. View Profile
+![image](https://github.com/ParamBhaskar/BTP_Management_System/assets/108367037/5a38d37e-f5cb-45cf-97f5-369d75744dc1)
+5. Project List
+![image](https://github.com/ParamBhaskar/BTP_Management_System/assets/108367037/97d6ee5d-e66b-40b3-b162-7a7f4f77c07d)
+6. Search in Project List (below is example of search by Department) 
+![image](https://github.com/ParamBhaskar/BTP_Management_System/assets/108367037/b3779d17-49b9-4260-9c3a-f7b5a790d398)
+7. View Pending Approvals (by Faculty): 
+![image](https://github.com/ParamBhaskar/BTP_Management_System/assets/108367037/5ea85f56-6f78-4d5f-8dfc-adb009d7c7a4)
+8. View approved applications (by Faculty): 
+![image](https://github.com/ParamBhaskar/BTP_Management_System/assets/108367037/707cf223-d534-400c-b154-cc5dde3c3e09)
+9.  Upload new project (by Faculty)
+![image](https://github.com/ParamBhaskar/BTP_Management_System/assets/108367037/f80956f2-9c35-4d3d-b4b6-5c1d96e582b1)
+10. Forgot Password OTP
+![image](https://github.com/ParamBhaskar/BTP_Management_System/assets/108367037/3a6a29de-1a4d-4319-83b1-55eeddde128b)
 
 ---
 
