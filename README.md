@@ -33,6 +33,7 @@
 >   - [ Installation](#installation)
 >   - [ Running BTP_Management_System](#running-BTP_Management_System)
 >   - [ Screenshots](#screenshots)
+> - [ Testing](#testing)
 > - [ Contributing](#contributing)
 > - [ Acknowledgments](#acknowledgments)
 
@@ -191,7 +192,14 @@ python app.py
 ![image](https://github.com/ParamBhaskar/BTP_Management_System/assets/108367037/3a6a29de-1a4d-4319-83b1-55eeddde128b)
 
 ---
+## Testing
+![image](https://github.com/ParamBhaskar/BTP_Management_System/assets/108367037/d7a3275d-f70c-4822-9bfe-cc80fddca3f6)
 
+Use the following command to test BTP_Management_System with test_app.py:
+```sh
+pytest --cov=app
+```
+---
 ##  Contributing
 
 Contributions are welcome! Here are several ways you can contribute:
