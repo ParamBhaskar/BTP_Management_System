@@ -5,7 +5,7 @@
     <h1 align="center">BTP_MANAGEMENT_SYSTEM</h1>
 </p>
 <p align="center">
-    <em>HTTP error 401 for prompt `slogan`</em>
+    <em>No BT for BTP!!!</em>
 </p>
 <p align="center">
 	<img src="https://img.shields.io/github/license/ParamBhaskar/BTP_Management_System?style=flat&color=0080ff" alt="license">
@@ -193,6 +193,7 @@ python app.py
 
 ---
 ## Testing
+Achieved **80% code coverage** across a 743-line Flask-based BTP Report Management System by implementing comprehensive unit and integration tests using pytest.
 ![image](https://github.com/ParamBhaskar/BTP_Management_System/assets/108367037/d7a3275d-f70c-4822-9bfe-cc80fddca3f6)
 
 Use the following command to test BTP_Management_System with test_app.py:
