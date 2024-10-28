@@ -58,7 +58,7 @@ def send_otp_signup(otp ,receiver_email):
     body = "Welcome to BTP Report Management System !!!"+ "\nOTP: " + str(otp) + "\nUse this otp for verifying your Institute Email Id.\n\nRegards, \nBTP Report Management System"
 
     # password = input("Type your password and press enter:")
-    password = "rlfm iyro bnpe zexv"
+    password = "xxx"
 
     # Create a multipart message and set headers
     message = MIMEMultipart()
